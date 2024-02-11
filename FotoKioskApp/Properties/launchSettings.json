@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FotoKioskApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FotoKioskApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
